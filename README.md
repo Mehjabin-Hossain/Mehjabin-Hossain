@@ -1,7 +1,7 @@
 # Hi there, I'm Mehjabin Hossain 👋
 
 💼 QA Engineer | Automation Enthusiast  
-🔧 Tools: Selenium 
+🔧 Tools: Selenium <br>
 🌱 Learning: Playwright, API Automation, CI/CD Pipelines  
 📫 LinkedIn: www.linkedin.com/in/mehjabin-hossain-sqa
 
